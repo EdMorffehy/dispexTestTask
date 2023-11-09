@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+.storybook
+coverage
+tsconfig.json
+tsconfig.node.json
+package.json
+yarn.lock
+.eslintrc.cjs
+vite.config.ts
